@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://i.imgur.com/YOUR_IMAGE_ID.jpg" width="100" style="border-radius: 50%;">
+  <img src="[https://i.imgur.com/YOUR_IMAGE_ID.jpg](https://i.imgur.com/rvDZB3m.jpeg)" width="100" style="border-radius: 50%;">
   <div>
     <h1>CS Undergraduate</h1>
     <p><strong>Surid Sarker</strong><br>
