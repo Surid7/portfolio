@@ -4,10 +4,7 @@
     <h1>CS Undergraduate</h1>
     <p><strong>Surid Sarker</strong><br>
     View the Project on GitHub: <a href="https://github.com/Surid7/portfolio">Surid7/portfolio</a></p>
-  </div>
-</div>
-
-### Education
+  </div><img width="720" height="1080" alt="FB_IMG_1716388711404" src="https://github.com/user-attachments/assets/14a7085b-4b12-47b2-a981-5db203b1a80d" />
 - BSc in CSE at Leading University, Sylhet, Bangladesh (2022-2026)
 - HSC in Science at Brindabon Govt College, Habigonj (2018-2020)
 - SSC in Science at Habigonj Govt High School, Habigonj (2018)
