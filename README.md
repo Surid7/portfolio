@@ -4,12 +4,14 @@
     <div>
       <h1 style="margin: 0;">CS Undergraduate</h1>
       <p style="margin: 4px 0 0 0;">
-        <strong>Surid Sarker</strong><br><br>
+        <strong>Surid Sarker</strong><br>
         <a href="https://github.com/Surid7/portfolio">View the Project on GitHub →</a>
       </p>
     </div>
   </div>
 </div>
+
+<br>  <!-- This adds extra space -->
 
 ## Education
 - **BSc in CSE** – Leading University, Sylhet, Bangladesh (2022–2026)
