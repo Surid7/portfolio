@@ -22,9 +22,9 @@
 
 ## Projects
 
-### 🍔 Foodify
+### Foodify
 A great food delivery app.  
 **APK link:** [Download from Google Drive](https://drive.google.com/file/d/1b7iMO9fQIbGyXvT3lWOrqLp-aOhofzLX/view?usp=drive_link)
 
-### 🧠 Neuro Gym
+### Neuro Gym
 A brain training app.
