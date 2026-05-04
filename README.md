@@ -1,6 +1,5 @@
 # CS Undergraduate
-
-![Profile Image]([https://imgur.com/](https://imgur.com/a/yklkYa3))
+![Profile Image](https://imgur.com/a/6moFrTR)
 ### Education
 BSc in CSE at Leading University,Sylhet,Bangladesh.{2022-2026}
 HSC in Science at Brindabon Govt Collage, Habigonj.{2018-2020}
