@@ -2,7 +2,7 @@
   <div style="display: flex; align-items: center; gap: 16px;">
     <img src="https://github.com/user-attachments/assets/14a7085b-4b12-47b2-a981-5db203b1a80d" width="110" height="110" style="border-radius: 50%; object-fit: cover;">
     <div>
-      <h1 style="margin: 0;">CS Undergraduate</h1>
+      <h1 style="margin: 0;">Data Scientist</h1>
       <p style="margin: 4px 0 0 0;">
         <strong>Surid Sarker</strong><br>
         <a href="https://github.com/Surid7/portfolio">View the Project on GitHub →</a>
