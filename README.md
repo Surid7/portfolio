@@ -4,7 +4,7 @@
     <div>
       <h1 style="margin: 0;">CS Undergraduate</h1>
       <p style="margin: 4px 0 0 0;">
-        <strong>Surid Sarker</strong><br>
+        <strong>Surid Sarker</strong><br><br>
         <a href="https://github.com/Surid7/portfolio">View the Project on GitHub →</a>
       </p>
     </div>
